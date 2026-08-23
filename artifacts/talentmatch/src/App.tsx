@@ -57,8 +57,8 @@ type NavKey = 'overview' | 'candidates' | 'shortlist' | 'settings';
 const candidates: Candidate[] = [
   {
     id: 1,
-    name: 'Maya Chen',
-    initials: 'MC',
+    name: 'Ayesha Rahman',
+    initials: 'AR',
     role: 'Staff Product Designer',
     location: 'San Francisco, CA',
     score: 94,
@@ -78,8 +78,8 @@ const candidates: Candidate[] = [
   },
   {
     id: 2,
-    name: 'Jon Bell',
-    initials: 'JB',
+    name: 'Arjun Mehta',
+    initials: 'AM',
     role: 'Product Designer',
     location: 'New York, NY',
     score: 89,
@@ -99,8 +99,8 @@ const candidates: Candidate[] = [
   },
   {
     id: 3,
-    name: 'Amina Okafor',
-    initials: 'AO',
+    name: 'Fatima Khan',
+    initials: 'FK',
     role: 'Senior Product Designer',
     location: 'Austin, TX',
     score: 84,
@@ -120,8 +120,8 @@ const candidates: Candidate[] = [
   },
   {
     id: 4,
-    name: 'Theo Martins',
-    initials: 'TM',
+    name: 'Rohan Iyer',
+    initials: 'RI',
     role: 'Lead Product Designer',
     location: 'Toronto, ON',
     score: 79,
@@ -141,8 +141,8 @@ const candidates: Candidate[] = [
   },
   {
     id: 5,
-    name: 'Priya Nair',
-    initials: 'PN',
+    name: 'Sana Qureshi',
+    initials: 'SQ',
     role: 'Product Designer',
     location: 'London, UK',
     score: 73,
