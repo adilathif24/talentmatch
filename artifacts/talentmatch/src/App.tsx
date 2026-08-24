@@ -35,6 +35,9 @@ import { Route, Switch, useLocation, Router as WouterRouter } from 'wouter';
 
 const queryClient = new QueryClient();
 
+// TalentMatch is a local-first recruiting review workspace.
+// Candidate data below is intentionally realistic demo data so the complete
+// product flow works immediately without requiring a backend service.
 type Candidate = {
   id: number;
   name: string;
