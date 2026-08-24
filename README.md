@@ -1,10 +1,7 @@
 # TalentMatch
 
-> **Created by `adilathif24` with Replit.** This project was created in Replit
-> and then published to GitHub. Replit generated the initial JavaScript
-> workspace and development scaffolding; the TalentMatch product concept,
-> recruiter workflow, candidate scoring experience, demo data, UI direction,
-> and documentation were created for this project by its author.
+> **Created by `adilathif24`.** TalentMatch is a portfolio project for
+> transparent, evidence-led candidate shortlisting.
 
 TalentMatch is an evidence-led recruiting workspace that helps hiring teams
 review candidates faster without hiding the reasoning behind each
@@ -15,17 +12,15 @@ Product Designer**. Instead of showing an unexplained ranking, TalentMatch
 connects every fit score to resume evidence and clearly marks areas that still
 need human review.
 
-## About the Replit-generated files
+## How to read this repository
 
-This repository includes some standard workspace files created by Replit so
-the project can run, type-check, and build consistently. Files under
-`artifacts/talentmatch/src` contain the main TalentMatch experience. The
-shared workspace, Vite configuration, TypeScript configuration, and UI
-primitives are supporting infrastructure rather than separate products.
+The main product is in `artifacts/talentmatch/src`. The shared workspace,
+Vite configuration, TypeScript configuration, and UI primitives are supporting
+infrastructure that keeps the application easy to run and maintain.
 
 The current version is a polished frontend demo with realistic local sample
 data. It is intentionally easy to run and review, while leaving room to add a
-database, authentication, and resume ingestion service in a future version.
+database, authentication, and resume-ingestion service in a future version.
 
 ## The problem it solves
 
